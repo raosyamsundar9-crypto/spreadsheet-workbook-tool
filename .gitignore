@@ -1,0 +1,6 @@
+npm-debug.log*
+.pnpm-store/
+*.tgz
+.next/
+build/
+coverage/
